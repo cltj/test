@@ -11,11 +11,19 @@ This documentation tries to follow the [zettelkasten](https://zettelkasten.de/in
 - [Archive](/Archive)
 
 In addition there is Attachments for screenshots (give images meaningful names), and a Templates part that can be improved over time. 
+That said, feel free to customize this index to fit your documentation needs. 
 - [Attachments](Attachments/)
 - [Templates](Templates/)
 
 ## Getting Started
 
-To get started with this vault, check out the [Quickstart Guide](Quickstart.md) and the [Welcome Note](Welcome.md).
+This guide will help you set up and start using your new documentation vault in no time.
 
-That said, feel free to customize this index to fit your documentation needs. 
+## Step 1: Clone the Repository
+
+Clone the `docs_template` repository to your local machine:
+
+```bash
+git clone <your-repo-url>
+
+
