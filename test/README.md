@@ -17,4 +17,4 @@ git clone https://github.com/cltj/docs_template.git <your-vault-name>
 Click on the vault you are currently in and choose "manage vaults" and "open folder as vault ![[open-obsidian-vault.png]]
 
 
-Some edit
+Some edit again
